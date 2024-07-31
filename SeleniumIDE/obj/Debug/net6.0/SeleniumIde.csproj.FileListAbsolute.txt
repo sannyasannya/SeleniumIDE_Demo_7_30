@@ -101,3 +101,4 @@ C:\Users\SanyaPanova\Front-EndTestAutomation\13.CISystemSelAppiumWorkshop1\13.Wo
 C:\Users\SanyaPanova\Front-EndTestAutomation\13.CISystemSelAppiumWorkshop1\13.Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.pdb
 C:\Users\SanyaPanova\Front-EndTestAutomation\13.CISystemSelAppiumWorkshop1\13.Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.genruntimeconfig.cache
 C:\Users\SanyaPanova\Front-EndTestAutomation\13.CISystemSelAppiumWorkshop1\13.Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\ref\SeleniumIde.dll
+C:\Users\SanyaPanova\Front-EndTestAutomation\13.CISystemSelAppiumWorkshop1\13.Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.sourcelink.json
